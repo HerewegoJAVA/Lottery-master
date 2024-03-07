@@ -1,0 +1,3 @@
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.bugstack.middleware.db.router.config.DataSourceAutoConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.example.lotterydbrouter.router.config.DataSourceAutoConfig
+
